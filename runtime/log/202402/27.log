@@ -1,0 +1,20 @@
+---------------------------------------------------------------
+[2024-02-27T18:07:26+08:00] 74.211.111.36 GET tyk.akynu.com/index/user/index.html
+[ error ] [8]未定义数组索引: PROCESSOR_IDENTIFIER
+[ error ] [8]未定义数组索引: SystemRoot
+---------------------------------------------------------------
+[2024-02-27T18:08:13+08:00] 74.211.111.36 GET tyk.akynu.com/index/user/game_list?page=4&limit=8
+[ error ] [8]未定义数组索引: PROCESSOR_IDENTIFIER
+[ error ] [8]未定义数组索引: SystemRoot
+---------------------------------------------------------------
+[2024-02-27T18:12:29+08:00] 74.211.111.36 GET tyk.akynu.com/index/user/workplace_set
+[ error ] [8]未定义数组索引: PROCESSOR_IDENTIFIER
+[ error ] [8]未定义数组索引: SystemRoot
+---------------------------------------------------------------
+[2024-02-27T18:14:26+08:00] 74.211.111.36 GET tyk.akynu.com/index/user/land_add?id=1
+[ error ] [8]未定义数组索引: PROCESSOR_IDENTIFIER
+[ error ] [8]未定义数组索引: SystemRoot
+---------------------------------------------------------------
+[2024-02-27T18:17:53+08:00] 74.211.111.36 GET tyk.akynu.com/index/user/game_list?game_name=&page=3&limit=8
+[ error ] [8]未定义数组索引: PROCESSOR_IDENTIFIER
+[ error ] [8]未定义数组索引: SystemRoot
