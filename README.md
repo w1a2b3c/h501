@@ -1,7 +1,7 @@
 # h5
 改进版【H5商城直接部署】
 # 完整专业版，可直接用
-https://zibovip.top/2759.html
+https://mensd.top/56.html
 # 前台测试链接
 https://zmy.zibovip.top
 # 后台测试链接  账号/密码   admin/123456
